@@ -185,4 +185,6 @@ poetry.toml
 # ruff
 .ruff_cache/
 
+#images
+*.png
 # End of https://www.toptal.com/developers/gitignore/api/linux,python
