@@ -187,4 +187,6 @@ poetry.toml
 
 #images
 *.png
+#csv
+*.csv
 # End of https://www.toptal.com/developers/gitignore/api/linux,python
